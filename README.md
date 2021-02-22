@@ -1,4 +1,5 @@
 # Drum Machine
+Electronic musical instrument for playing hip hop, house or metal melody & drum kits. Audio is triggered by clicking drum-pad or pressing a specific key on the keyboard. Built with ReactJS
 
 ## How to run on your local machine :arrow_heading_down:
 
